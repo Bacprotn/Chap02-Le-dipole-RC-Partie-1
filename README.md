@@ -13,7 +13,9 @@
 
 ## Liens Utiles
 
-- Chap.01 Le condensateur : https://youtu.be/t-_-3W4ihRg
+- [Chap.01 Le condensateur](https://youtu.be/t-_-3W4ihRg)
+- [Chap 02: Le dipole RC - Partie 1](https://youtu.be/wQt4mt8wEqc)
+
 - [YouTube](https://www.youtube.com/@BacPro-tn)
 - [Facebook](https://www.facebook.com/BacPro.tn)
 - [Twitter (X)](https://www.x.com/@BACPro)
